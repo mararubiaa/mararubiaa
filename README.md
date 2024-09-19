@@ -1,17 +1,18 @@
 ## 🌟 Olá, Devs do Mundo! Eu sou Mara Rúbia.<br>
-Bem-vindo(a) ao meu cantinho aqui no GitHub! Estou animada para compartilhar minha jornada de aprendizado rumo à ciência de dados. 🚀 Atualmente, estou explorando as maravilhas de Python e R, buscando extrair insights valiosos dos dados.
+# Bem-vindo(a) ao meu cantinho aqui no GitHub!  
+Estou animada para compartilhar minha jornada de aprendizado rumo ao desenvolvimento frontend. 🚀 Atualmente, estou explorando as maravilhas de HTML, CSS e JavaScript, buscando criar interfaces interativas e amigáveis.
 
-### 🌱 Sobre Mim
-<p>🎓 Sou uma entusiasta em constante evolução, apaixonada por dados e seu potencial transformador.
-<p>💻 Estou aprimorando minhas habilidades em análise de dados, visualização e machine learning.
-<p>📊 Meu objetivo é contribuir para projetos interessantes e aprender com uma comunidade incrível de desenvolvedores e cientistas de dados.
+## 🌱 Sobre Mim  
+🎓 Sou uma entusiasta em constante evolução, apaixonada por design e desenvolvimento de interfaces que proporcionam uma excelente experiência ao usuário.  
+💻 Estou aprimorando minhas habilidades em desenvolvimento frontend, UX design e web design, com foco em acessibilidade, usabilidade e performance.  
+🎨 Meu objetivo é contribuir para projetos interessantes, criar experiências incríveis para os usuários e aprender com uma comunidade talentosa de desenvolvedores e designers.
 
-  ### 🚀 O Que Estou Fazendo
-<p>Atualmente, estou dedicando meu tempo a:
+## 🚀 O Que Estou Fazendo  
+Atualmente, estou dedicando meu tempo a:
 
-<p>🐍 Aprendendo Python para análise de dados e automação.
-<p>📊 Explorando R para estatísticas e visualizações impactantes.
-<p>📚 Aprofundando meu conhecimento em machine learning e suas aplicações.
+- 💻 Aprendendo e aprimorando minhas habilidades em HTML, CSS, JavaScript e UX design.  
+- 🎨 Explorando frameworks e bibliotecas como React para construir aplicações dinâmicas e funcionais.  
+- 📚 Aprofundando meu conhecimento em design responsivo, acessibilidade e melhores práticas em web design.
 
 ### 💡Tecnologias que uso atualmente:
 

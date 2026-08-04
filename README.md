@@ -29,8 +29,5 @@ Estou sempre aberta a novas ideias, projetos colaborativos e conversas interessa
 <b><p>Você pode me acompanhar através de outras redes!:<p></p>
 
 [![Linkedin](https://img.icons8.com/?size=100&id=Do9mhiOiKKSf&format=png&color=000000)](https://www.linkedin.com/in/mararubiaalves/)
-[![X](https://img.icons8.com/?size=100&id=6Fsj3rv2DCmG&format=png&color=000000)](https://x.com/Rubiahttp)
-
-
 
 ##  Vamos Criar, Inovar e Impactar! 🌟

@@ -28,13 +28,9 @@ Atualmente, estou dedicando meu tempo a:
 Estou sempre aberta a novas ideias, projetos colaborativos e conversas interessantes sobre ciência de dados e tecnologia. Vamos compartilhar conhecimento e construir algo incrível juntos! 😊
 <b><p>Você pode me acompanhar através de outras redes!:<p></p>
 
-[![Instagram](https://img.icons8.com/?size=100&id=85140&format=png&color=000000)](https://www.instagram.com/mararubiah_/)
 [![Linkedin](https://img.icons8.com/?size=100&id=Do9mhiOiKKSf&format=png&color=000000)](https://www.linkedin.com/in/mararubiaalves/)
 [![X](https://img.icons8.com/?size=100&id=6Fsj3rv2DCmG&format=png&color=000000)](https://x.com/Rubiahttp)
 
 
-### Abaixo você consegue visualizar minha tabela de contribuições <p> aqui no GitHub👇
-
-![Mara Rúbia GitHub stats](https://github-readme-stats.vercel.app/api?username=mararubiaa&show_icons=true&theme=cobalt)
 
 ##  Vamos Criar, Inovar e Impactar! 🌟
